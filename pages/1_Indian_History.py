@@ -1,6 +1,6 @@
 import streamlit as st
 from historyQuiz import HistoryQuiz
-
+# from Home import participant_name
 
 st.set_page_config(
     page_title="Historic Quiz App",
