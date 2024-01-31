@@ -39,9 +39,9 @@ HistoryQuiz is a simple quiz application that leverages the OpenAI API and LangC
 
 ## Usage
 
-1. Generate an OpenAI API Key from [here](https://platform.openai.com/).
+1. Sign-up or Sign-in [here](https://platform.openai.com/){:target="_blank"} and generate your OpenAI API key.
 
-2. Add to your OS environment. 
+2. Add the generated API key to your OS environment. 
    
 3. Run the app using the following command:
 
