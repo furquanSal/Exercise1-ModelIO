@@ -26,24 +26,24 @@ HistoryQuiz is a simple quiz application that leverages the OpenAI API and LangC
 
 2. Navigate to the project directory:
 
-  ```bash
-  cd HistoryQuiz
-  ```
+   ```bash
+     cd HistoryQuiz
+   ```
 
 3. Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 
 ## Usage
 
 1. Run the app using the following command:
 
-```bash
-streamlit run app.py
-```
+   ```bash
+   streamlit run app.py
+   ```
 
 2. Open your web browser and go to http://localhost:8501 to access the HistoryQuiz app.
 
